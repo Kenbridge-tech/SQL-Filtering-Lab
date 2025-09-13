@@ -2,9 +2,9 @@
 
 ### Description
 
-This project was part of my **Google Cybersecurity Course,** where I practiced using SQL as a tool for security investigations.
+This project was part of my **Google Cybersecurity Course,** where I practiced using **SQL** as a tool for security investigations.
 
-In this lab, I worked with an organization’s employee and login database, writing queries that could uncover suspicious activity and support system updates.
+In this lab, I worked with an organization’s **employee** and **login** database, writing queries that could uncover suspicious activity and support system updates.
 
 It was a great opportunity to strengthen my analytical skills and see how simple SQL filters can make a big difference in finding the right data during an investigation.
 
@@ -37,6 +37,6 @@ The main idea was to explore how SQL queries help security teams find the “sig
 - Excluding irrelevant data so that reports remain clean and easy to read.
 
 ---
-Let's take the Walkthrough [Here:](/WALKTHROUGH.md)
+**Let's take the Walkthrough** [Here:](/WALKTHROUGH.md)
 
-Executive summary(report) [Here:](docs/report.md)
+**Executive summary(report)** [Here:](docs/report.md)
