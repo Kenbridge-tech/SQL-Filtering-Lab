@@ -1,6 +1,6 @@
 # SQL-Filtering-Lab
 
-### Project Objectives
+### Description
 
 This project was part of my **Google Cybersecurity Course,** where I practiced using SQL as a tool for security investigations.
 
