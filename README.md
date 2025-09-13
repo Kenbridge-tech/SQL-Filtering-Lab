@@ -37,4 +37,4 @@ The main idea was to explore how SQL queries help security teams find the “sig
 - Excluding irrelevant data so that reports remain clean and easy to read.
 
 ---
-Let's take the Walkthrough [Here:](/walkthrough)
+Let's take the Walkthrough [Here:](/WALKTHROUGH.md)
