@@ -15,7 +15,7 @@ Query:
 SELECT * FROM log_in_attempts 
 WHERE login_time > '18:00' AND success = FALSE;
 ```
-![After hours failed login]()
+![After hours failed login](screenshots/failed_login_attempts.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. This
 query filters for failed login attempts that occurred after **18:00**. First, I started by selecting all
@@ -37,7 +37,7 @@ Query:
 SELECT * FROM log_in_attempts 
 WHERE login_date = '2022-05-09' OR login_date = '2022-05-08';
 ```
-![Specific dates login attempts]()
+![Specific dates login attempts](screenshots/Login_attempts_on_specific_dates.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. This
 query returns all login attempts that occurred on **2022-05-09** or **2022-05-08**. First, I started by
@@ -60,7 +60,7 @@ Query:
 SELECT * FROM log_in_attempts 
 WHERE NOT country LIKE 'MEX%';
 ```
-![Logs outside of Mexico]()
+![Logs outside of Mexico](screenshots/Attempts_outside_Mex.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. This
 query returns all login attempts that occurred in countries other than Mexico. First, I started by
@@ -81,7 +81,7 @@ Query:
 SELECT * FROM employees 
 WHERE department = 'Marketing' AND office LIKE 'East%';
 ```
-![Employees in East building]()
+![Employees in East building](screenshots/Employees_in_Marketing.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. This
 query returns all employees in the Marketing department in the East building. First, I started by
@@ -106,7 +106,7 @@ Query:
 SELECT * FROM employees 
 WHERE department = 'Finance' OR department = 'Sales';
 ```
-![Empolyees from finance or sales]()
+![Empolyees from finance or sales](screenshots/Employees_in_finance_or_sales.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. This
 query returns all employees in the **Finance** and **Sales** departments. First, I started by selecting
@@ -129,7 +129,7 @@ Query:
 SELECT * FROM employees 
 WHERE NOT department = 'Information Technology';
 ```
-![Employees not in IT]()
+![Employees not in IT](screenshots/Eployees_not_in_IT.png)
 
 The first part of the screenshot is my query, and the second part is a portion of the output. The
 query returns all employees not in the Information Technology department. First, I started by
