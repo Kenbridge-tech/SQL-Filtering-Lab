@@ -38,3 +38,5 @@ The main idea was to explore how SQL queries help security teams find the “sig
 
 ---
 Let's take the Walkthrough [Here:](/WALKTHROUGH.md)
+
+Executive summary(report) [Here:](docs/report.md)
